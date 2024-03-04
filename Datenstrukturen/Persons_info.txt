@@ -1,0 +1,10 @@
+Name: David Petry
+Alter: 25
+Programmiersprachen: Python, Java, C, C++
+Python-Erfahrung: Ja
+
+Name: Daniel Hetzenauer
+Alter: 30
+Programmiersprachen: Python, Java
+Python-Erfahrung: Ja
+
